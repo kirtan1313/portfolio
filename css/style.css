@@ -1,0 +1,99 @@
+/* header */
+img{
+    width: 100%;
+}
+.header-size{
+    font-weight: 300;
+    color: black;
+}
+.header-size1{
+    color: black;
+    font-size: 25px;
+}
+.offcanva-view{
+    font-size: 28px;
+}
+.height{
+    height: 300px;
+}
+.off li a{
+    color: white;
+    font-size: 28px;
+}
+.off li a:hover{
+    color:yellow;
+    font-size: 28px;
+}
+
+/* banner */
+
+.banner-color{
+    height: 800px;
+}
+.cd-headline{
+    font-size: 20px;
+}
+.banner-img3{
+    height: 800px;
+}
+.banner-font{
+    font-size: 40px;
+}
+.banner-font1{
+    font-size: 60px;
+}
+.banner-font3{
+    font-size: 20px;
+}
+.banner-font2{
+    font-size: 30px;
+}
+.border1{
+    border: 10px solid black;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.offcanvas-top {
+    height: 100vh;
+}
+
+/* about me */
+.about-me{
+    width: 120px;
+    height: 120px;
+   
+}
+.banner-font5{
+    font-size: 150px;
+    transform: translatex(-2%)translatey(-10%);
+    
+}
+.banner-font6{
+    font-size: 30px;
+}
+.about-font{
+    font-size: 20px;
+}
+.about-font1{
+    font-size: 23px;
+}
+.margin-top-bottom{
+    margin: 100px 0;
+}
+.img-hover{
+    height: 300px;
+    background-image: url(../imgas/intro-bg-2.jpg); 
+    background-color: rgba(0, 0, 0, 0.1);
+   justify-content: center;
+   font-weight: 900;
+   z-index: -999;
+   font-size: 50px;
+   color:white;
+}
+/* .ww{
+    background-color: rgba(0, 0, 0, 0.1);
+    width: 100%;
+    height: 100%;
+    z-index: 999 !important;
+} */
+
